@@ -1,0 +1,55 @@
+.body-card {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  width: 490px;
+  background-color: #f5b6cd;
+  height: 199px;
+  padding: 32.2px;
+  margin-top: 0px;
+  border-radius: 0px 0px 3px 3px;
+}
+
+.button-div {
+  width: 490px;
+  background-color: #f5b6cd;
+  height: 80px;
+  padding: 0px 32.2px;
+  margin-top: 0px;
+  border-radius: 0px 0px 3px 3px;
+}
+
+img {
+  width: 555px;
+  margin: 0;
+  border-radius: 3px 3px 0px 0px;
+}
+
+span {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 28px;
+  line-height: 25px;
+  margin: 10px 0px;
+}
+
+p {
+  font-size: 12px;
+  margin: 0px;
+}
+
+.main-box {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: inherit;
+  border: 1px solid black;
+  border-radius: 30px;
+  margin-top: 30px;
+}

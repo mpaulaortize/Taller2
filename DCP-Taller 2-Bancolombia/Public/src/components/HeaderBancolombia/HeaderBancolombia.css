@@ -1,0 +1,51 @@
+a {
+  color: rgb(28, 28, 28);
+  text-decoration: none;
+}
+
+img {
+  width: 214px;
+}
+
+.Header {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+nav {
+  margin: 10px;
+}
+
+nav a {
+  margin: 20px;
+}
+
+.mainButtons {
+  background: #ffffff;
+  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.buttonuno {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  border: none;
+  background-color: inherit;
+  padding: 10px;
+}
+
+.buttondos {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  border: none;
+  border-radius: 60px;
+  background-color: #fdda24;
+  padding: 8px 18px;
+  margin: 5px;
+}
